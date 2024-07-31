@@ -1,5 +1,6 @@
 #Overview
 
-Welcomeing my data analyst
+Welcoming my data analyst
 
+[graphic]
 ![alt text](image.png)
